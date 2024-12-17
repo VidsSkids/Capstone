@@ -6,15 +6,19 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/USER/Documents/GitHub/Capstone/Content/Gamemodes/BP_DefaultGamemode.uasset",
-				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/Characters/BP_Player.uasset",
-				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/BP_Player.uasset",
-				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/Characters/BP_Seed.uasset",
-				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/BP_Seed.uasset",
 				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/Characters/Player/BP_Player.uasset",
 				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/Characters/Player/BP_Seed.uasset",
 				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/Characters/Monsters/BP_Caterpillar.uasset",
 				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/Widgets/Player/WBP_PlayerStateBar.uasset",
-				"C:/Users/USER/Documents/GitHub/Capstone/Content/__ExternalActors__/Levels/TestMap/9/K2/GHV7DBTEYVUAF11FIPWZGN.uasset"
+				"C:/Users/USER/Documents/GitHub/Capstone/Content/__ExternalActors__/Levels/TestMap/9/K2/GHV7DBTEYVUAF11FIPWZGN.uasset",
+				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/Interaction/BPI_Interact.uasset",
+				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/Debug/Interactable_Object/BP_TestStick.uasset",
+				"C:/Users/USER/Documents/GitHub/Capstone/Content/__ExternalActors__/Levels/TestMap/2/0J/COVVL6EHAS9TPJK1KB8NTT.uasset",
+				"C:/Users/USER/Documents/GitHub/Capstone/Content/Inputs/IMC_Player.uasset",
+				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/Characters/BP_Player.uasset",
+				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/Characters/BP_Seed.uasset",
+				"C:/Users/USER/Documents/GitHub/Capstone/Content/Blueprints/BP_Seed.uasset"
 			]
 		}
 	]
